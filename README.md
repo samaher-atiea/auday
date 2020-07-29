@@ -1,0 +1,2 @@
+# auday
+.git
